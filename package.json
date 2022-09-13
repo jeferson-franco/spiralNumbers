@@ -1,0 +1,20 @@
+{
+  "name": "spiralnumbers",
+  "version": "1.0.0",
+  "description": "Construct a square matrix with a size `N × N` containing integers from `1` to `N * N` in a spiral order, starting from top-left and in clockwise direction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/spiralNumbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/spiralNumbers/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/spiralNumbers#readme"
+}
